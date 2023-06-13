@@ -1,0 +1,20 @@
+left eye: left 
+top
+right 
+bottom
+right eye: left
+top
+right 
+bottom
+nose 鼻梁（两眼之间，额头与鼻子交界处的较低点）
+nose tip
+nose left 
+nose right
+nose 鼻孔 left
+nose 鼻孔 right
+lip: left corner
+top left
+top right
+right corner
+top right
+top left

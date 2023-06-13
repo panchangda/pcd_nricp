@@ -1,0 +1,4 @@
+/home/pcd/vscodes/pcd_nricp/build/CMakeFiles/rebuild_cache.dir
+/home/pcd/vscodes/pcd_nricp/build/CMakeFiles/dfm_transf.dir
+/home/pcd/vscodes/pcd_nricp/build/CMakeFiles/edit_cache.dir
+/home/pcd/vscodes/pcd_nricp/build/CMakeFiles/nricp.dir

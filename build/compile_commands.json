@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/pcd/vscodes/pcd_nricp/build",
+  "command": "/usr/bin/g++  -DCOMPILEDWITHC11 -DNPARTITION -I/home/pcd/vscodes/pcd_nricp/3rdparty/trimesh2/include -I/usr/include/suitesparse -isystem /usr/include/eigen3   -std=c++17 -fopenmp -g   -o CMakeFiles/dfm_transf.dir/deformation_transfer.cpp.o -c /home/pcd/vscodes/pcd_nricp/deformation_transfer.cpp",
+  "file": "/home/pcd/vscodes/pcd_nricp/deformation_transfer.cpp"
+},
+{
+  "directory": "/home/pcd/vscodes/pcd_nricp/build",
+  "command": "/usr/bin/g++  -DCOMPILEDWITHC11 -DNPARTITION -I/home/pcd/vscodes/pcd_nricp/3rdparty/trimesh2/include -I/usr/include/suitesparse -isystem /usr/include/eigen3   -std=c++17 -fopenmp -g   -o CMakeFiles/nricp.dir/main.cpp.o -c /home/pcd/vscodes/pcd_nricp/main.cpp",
+  "file": "/home/pcd/vscodes/pcd_nricp/main.cpp"
+}
+]

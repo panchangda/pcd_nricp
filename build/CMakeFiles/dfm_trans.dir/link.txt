@@ -1,0 +1,1 @@
+/usr/bin/g++   -std=c++17 -fopenmp -g    CMakeFiles/dfm_trans.dir/deformation_transfer.cpp.o  -o dfm_trans  ../3rdparty/trimesh2/lib.Linux64/libtrimesh.a 
